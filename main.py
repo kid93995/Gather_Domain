@@ -15,6 +15,3 @@ if __name__ == "__main__":
     Main()
 
 
-
-# /home/kali/web_pentesting/verisk.com/recon/verisk.com subdomains.json
-# 
